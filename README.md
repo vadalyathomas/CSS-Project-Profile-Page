@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <title>John Doe's Profile</title>
