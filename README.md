@@ -64,7 +64,7 @@
 </style>
 </html>
 
-<!---- Css section--->
+<!---- Css styling section--->
 <style>
     .active-day {
     text-align: center;
