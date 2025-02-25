@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>John Doe's Profile</title>
+<title>John Doe's Profile</title>
 </head>
 <body>
   <div>
